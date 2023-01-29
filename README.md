@@ -1,5 +1,5 @@
 # prediksi_saham_autots
-Prediksi saham menggunakan autots
+Prediksi saham menggunakan library autots
 
 Projek ini bertujuan untuk menguji library autots untuk menilai dan memprediksi saham samudra indonesia
 
